@@ -3,7 +3,7 @@ Write Persian easily
 -----------------------------------
 
 Features:
-  Persian Text.
+  Persian Text.\n
   Persian Inputfield.
   Persian Buton.
   Persian Checkbox.
