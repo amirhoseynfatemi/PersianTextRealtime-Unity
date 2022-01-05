@@ -7,7 +7,7 @@ Features:
   Persian Inputfield.
   Persian Buton.
   Persian Checkbox.
-
+ 
 How to use:
 1 : Import latest unitypackage into your project from this :
 https://assetstore.unity.com/preview/210584/666757?_ga=2.199649710.1228232959.1641240053-1798931268.1641240053
