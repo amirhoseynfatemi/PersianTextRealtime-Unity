@@ -1,0 +1,2 @@
+# PersianTextRealtime
+Write Persian easily
