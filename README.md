@@ -3,11 +3,10 @@ Write Persian easily
 -----------------------------------
 
 Features:
-
-Persian Text
-Persian Inputfield
-Persian Buton
-Persian Checkbox
+  Persian Text.
+  Persian Inputfield.
+  Persian Buton.
+  Persian Checkbox.
 
 How to use:
 1 : Import latest unitypackage into your project from this :
